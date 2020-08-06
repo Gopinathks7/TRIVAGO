@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="136503" started-at="2020-08-06T11:41:44 IST" finished-at="2020-08-06T11:44:00 IST">
+  <suite name="Suite" duration-ms="185645" started-at="2020-08-06T12:43:27 IST" finished-at="2020-08-06T12:46:32 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="136503" started-at="2020-08-06T11:41:44 IST" finished-at="2020-08-06T11:44:00 IST">
+    <test name="Test" duration-ms="185645" started-at="2020-08-06T12:43:27 IST" finished-at="2020-08-06T12:46:32 IST">
       <class name="com.scripts.BookTest">
-        <test-method status="PASS" signature="initFrameWork()[pri:0, instance:com.scripts.BookTest@74ad1f1f]" name="initFrameWork" is-config="true" duration-ms="1980" started-at="2020-08-06T11:41:42 IST" finished-at="2020-08-06T11:41:44 IST">
+        <test-method status="PASS" signature="initFrameWork()[pri:0, instance:com.scripts.BookTest@74ad1f1f]" name="initFrameWork" is-config="true" duration-ms="1541" started-at="2020-08-06T12:43:25 IST" finished-at="2020-08-06T12:43:27 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initFrameWork -->
-        <test-method status="PASS" signature="initBrowser(java.lang.String)[pri:0, instance:com.scripts.BookTest@74ad1f1f]" name="initBrowser" is-config="true" duration-ms="37" started-at="2020-08-06T11:41:44 IST" finished-at="2020-08-06T11:41:44 IST">
+        <test-method status="PASS" signature="initBrowser(java.lang.String)[pri:0, instance:com.scripts.BookTest@74ad1f1f]" name="initBrowser" is-config="true" duration-ms="40" started-at="2020-08-06T12:43:27 IST" finished-at="2020-08-06T12:43:27 IST">
           <params>
             <param index="0">
               <value>
@@ -22,7 +22,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initBrowser -->
-        <test-method status="PASS" signature="initApplication(java.lang.String)[pri:0, instance:com.scripts.BookTest@74ad1f1f]" name="initApplication" is-config="true" duration-ms="33285" started-at="2020-08-06T11:41:44 IST" finished-at="2020-08-06T11:42:17 IST">
+        <test-method status="PASS" signature="initApplication(java.lang.String)[pri:0, instance:com.scripts.BookTest@74ad1f1f]" name="initApplication" is-config="true" duration-ms="73806" started-at="2020-08-06T12:43:27 IST" finished-at="2020-08-06T12:44:41 IST">
           <params>
             <param index="0">
               <value>
@@ -33,7 +33,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initApplication -->
-        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.scripts.BookTest@74ad1f1f]" name="preCondition" is-config="true" duration-ms="6577" started-at="2020-08-06T11:42:17 IST" finished-at="2020-08-06T11:42:24 IST">
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.scripts.BookTest@74ad1f1f]" name="preCondition" is-config="true" duration-ms="6626" started-at="2020-08-06T12:44:41 IST" finished-at="2020-08-06T12:44:47 IST">
           <params>
             <param index="0">
               <value>
@@ -44,11 +44,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preCondition -->
-        <test-method status="PASS" signature="getBooking()[pri:0, instance:com.scripts.BookTest@74ad1f1f]" name="getBooking" duration-ms="96359" started-at="2020-08-06T11:42:24 IST" finished-at="2020-08-06T11:44:00 IST">
+        <test-method status="PASS" signature="getBooking()[pri:0, instance:com.scripts.BookTest@74ad1f1f]" name="getBooking" duration-ms="104834" started-at="2020-08-06T12:44:47 IST" finished-at="2020-08-06T12:46:32 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getBooking -->
-        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.scripts.BookTest@74ad1f1f]" name="postCondition" is-config="true" duration-ms="7" started-at="2020-08-06T11:44:00 IST" finished-at="2020-08-06T11:44:00 IST">
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.scripts.BookTest@74ad1f1f]" name="postCondition" is-config="true" duration-ms="9" started-at="2020-08-06T12:46:32 IST" finished-at="2020-08-06T12:46:32 IST">
           <params>
             <param index="0">
               <value>
@@ -59,11 +59,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postCondition -->
-        <test-method status="PASS" signature="cleanApplication()[pri:0, instance:com.scripts.BookTest@74ad1f1f]" name="cleanApplication" is-config="true" duration-ms="1" started-at="2020-08-06T11:44:00 IST" finished-at="2020-08-06T11:44:00 IST">
+        <test-method status="PASS" signature="cleanApplication()[pri:0, instance:com.scripts.BookTest@74ad1f1f]" name="cleanApplication" is-config="true" duration-ms="1" started-at="2020-08-06T12:46:32 IST" finished-at="2020-08-06T12:46:32 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanApplication -->
-        <test-method status="PASS" signature="closeBrowser(java.lang.String)[pri:0, instance:com.scripts.BookTest@74ad1f1f]" name="closeBrowser" is-config="true" duration-ms="2" started-at="2020-08-06T11:44:00 IST" finished-at="2020-08-06T11:44:00 IST">
+        <test-method status="PASS" signature="closeBrowser(java.lang.String)[pri:0, instance:com.scripts.BookTest@74ad1f1f]" name="closeBrowser" is-config="true" duration-ms="2" started-at="2020-08-06T12:46:32 IST" finished-at="2020-08-06T12:46:32 IST">
           <params>
             <param index="0">
               <value>
@@ -74,7 +74,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method status="PASS" signature="closeFrameWork()[pri:0, instance:com.scripts.BookTest@74ad1f1f]" name="closeFrameWork" is-config="true" duration-ms="1554" started-at="2020-08-06T11:44:01 IST" finished-at="2020-08-06T11:44:02 IST">
+        <test-method status="PASS" signature="closeFrameWork()[pri:0, instance:com.scripts.BookTest@74ad1f1f]" name="closeFrameWork" is-config="true" duration-ms="1726" started-at="2020-08-06T12:46:33 IST" finished-at="2020-08-06T12:46:34 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeFrameWork -->
