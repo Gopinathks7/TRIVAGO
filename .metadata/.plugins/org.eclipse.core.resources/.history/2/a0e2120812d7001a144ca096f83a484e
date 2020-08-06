@@ -1,0 +1,19 @@
+package com.scripts;
+
+import org.testng.annotations.Test;
+
+import com.common.BaseTest;
+import com.pages.BookingPage;
+
+public class BookTest extends BaseTest
+{
+
+	@Test
+	public void getBooking()
+	{
+		BookingPage p=new BookingPage(driver);
+		p.setPlaceToSearc("Bengaluru");
+		p.selectByRatings("Rating only");
+		p.getListOfHotels();
+	}
+}

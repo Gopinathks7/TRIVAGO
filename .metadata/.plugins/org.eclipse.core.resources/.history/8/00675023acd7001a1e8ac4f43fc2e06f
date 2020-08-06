@@ -1,0 +1,984 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Wed Aug 05 17:59:21 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:54</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>256</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:69</td>
+<td title="Message">Browser: Selected is chrome</td>
+</tr>
+
+<tr>
+<td>285</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:83</td>
+<td title="Message">Application Started on Browser:chrome</td>
+</tr>
+
+<tr>
+<td>40232</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isAM Suites Frazer Town</td>
+</tr>
+
+<tr>
+<td>42355</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend Seven Olives Hotel Bommanahalli</td>
+</tr>
+
+<tr>
+<td>44444</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isThe Prince Royal</td>
+</tr>
+
+<tr>
+<td>46625</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isAaccord Hotel</td>
+</tr>
+
+<tr>
+<td>48800</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isD'Brooks</td>
+</tr>
+
+<tr>
+<td>50882</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isFabHotel White Lotus Pulikeshi Nagar</td>
+</tr>
+
+<tr>
+<td>52976</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend Blu Orchid</td>
+</tr>
+
+<tr>
+<td>55067</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isPrasad Residency Yeshwanthpur</td>
+</tr>
+
+<tr>
+<td>57176</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend Dvaraka Inn Manyata Tech Park</td>
+</tr>
+
+<tr>
+<td>59314</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isTreebo Trip Jade Blue Suites</td>
+</tr>
+
+<tr>
+<td>61473</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isFabExpress Status Executive Rooms</td>
+</tr>
+
+<tr>
+<td>63571</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend Grk Comforts</td>
+</tr>
+
+<tr>
+<td>65691</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isCapital O 9253 Champion Comfort</td>
+</tr>
+
+<tr>
+<td>67813</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend Sri Udupi Park</td>
+</tr>
+
+<tr>
+<td>69953</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isFabHotel Crown Heights Koramangala</td>
+</tr>
+
+<tr>
+<td>72046</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isFabHotel Royal Stay Mahadevapura</td>
+</tr>
+
+<tr>
+<td>74126</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend White Inn Koramangala</td>
+</tr>
+
+<tr>
+<td>76219</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend Galaxy Suites</td>
+</tr>
+
+<tr>
+<td>78310</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isFabHotel Grand Savoury Suites Bangalore East Railway Station</td>
+</tr>
+
+<tr>
+<td>80441</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend Hibiscus Hebbal</td>
+</tr>
+
+<tr>
+<td>82589</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend Saga Comforts</td>
+</tr>
+
+<tr>
+<td>84801</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isTreebo Trip Shivas Kuteera HSR Layout</td>
+</tr>
+
+<tr>
+<td>86893</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isTreebo Trip Roxel Inn</td>
+</tr>
+
+<tr>
+<td>88997</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isBluemoon Checkinn</td>
+</tr>
+
+<tr>
+<td>91117</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isFabExpress Golden Key Koramangala</td>
+</tr>
+
+<tr>
+<td>138174</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:75</td>
+<td title="Message">Execution completed on Browser:chrome</td>
+</tr>
+
+<tr>
+<td>138203</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:62</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Wed Aug 05 18:02:24 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:54</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>430</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:69</td>
+<td title="Message">Browser: Selected is chrome</td>
+</tr>
+
+<tr>
+<td>465</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:83</td>
+<td title="Message">Application Started on Browser:chrome</td>
+</tr>
+
+<tr>
+<td>41987</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isGrand Suites</td>
+</tr>
+
+<tr>
+<td>46852</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend Seven Olives Hotel Bommanahalli</td>
+</tr>
+
+<tr>
+<td>48990</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isThe Prince Royal</td>
+</tr>
+
+<tr>
+<td>51087</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isAaccord Hotel</td>
+</tr>
+
+<tr>
+<td>53197</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isD'Brooks</td>
+</tr>
+
+<tr>
+<td>55290</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isFabHotel White Lotus Pulikeshi Nagar</td>
+</tr>
+
+<tr>
+<td>57382</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend Blu Orchid</td>
+</tr>
+
+<tr>
+<td>59540</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend Dvaraka Inn Manyata Tech Park</td>
+</tr>
+
+<tr>
+<td>61659</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isPrasad Residency Yeshwanthpur</td>
+</tr>
+
+<tr>
+<td>63798</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isTreebo Trip Jade Blue Suites</td>
+</tr>
+
+<tr>
+<td>66122</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isFabExpress Status Executive Rooms</td>
+</tr>
+
+<tr>
+<td>68213</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend Grk Comforts</td>
+</tr>
+
+<tr>
+<td>70314</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isCapital O 9253 Champion Comfort</td>
+</tr>
+
+<tr>
+<td>72464</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend Sri Udupi Park</td>
+</tr>
+
+<tr>
+<td>74594</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isFabHotel Crown Heights Koramangala</td>
+</tr>
+
+<tr>
+<td>76686</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isFabHotel Royal Stay Mahadevapura</td>
+</tr>
+
+<tr>
+<td>78798</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isFabHotel Grand Savoury Suites Bangalore East Railway Station</td>
+</tr>
+
+<tr>
+<td>80892</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend Saga Comforts</td>
+</tr>
+
+<tr>
+<td>83046</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isTreebo Trip Shivas Kuteera HSR Layout</td>
+</tr>
+
+<tr>
+<td>85183</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend White Inn Koramangala</td>
+</tr>
+
+<tr>
+<td>87292</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend Galaxy Suites</td>
+</tr>
+
+<tr>
+<td>89734</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isTreebo Trip Roxel Inn</td>
+</tr>
+
+<tr>
+<td>91825</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isBluemoon Checkinn</td>
+</tr>
+
+<tr>
+<td>93907</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isFabExpress Golden Key Koramangala</td>
+</tr>
+
+<tr>
+<td>96256</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:87</td>
+<td title="Message">The Hotel present on the first page isBright 2bhk-5minfrm Manyata,sobha,bhartiyacity-402</td>
+</tr>
+
+<tr>
+<td>122827</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:75</td>
+<td title="Message">Execution completed on Browser:chrome</td>
+</tr>
+
+<tr>
+<td>122886</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:62</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Aug 06 11:31:26 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:54</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>3039</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:69</td>
+<td title="Message">Browser: Selected is chrome</td>
+</tr>
+
+<tr>
+<td>3141</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:83</td>
+<td title="Message">Application Started on Browser:chrome</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Aug 06 11:35:11 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:54</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>1294</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:69</td>
+<td title="Message">Browser: Selected is chrome</td>
+</tr>
+
+<tr>
+<td>1349</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:83</td>
+<td title="Message">Application Started on Browser:chrome</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Aug 06 11:41:41 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:54</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>1875</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:69</td>
+<td title="Message">Browser: Selected is chrome</td>
+</tr>
+
+<tr>
+<td>1938</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:83</td>
+<td title="Message">Application Started on Browser:chrome</td>
+</tr>
+
+<tr>
+<td>86474</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isAM Suites Frazer Town</td>
+</tr>
+
+<tr>
+<td>86693</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isThe Prince Royal</td>
+</tr>
+
+<tr>
+<td>86885</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend Seven Olives Hotel Bommanahalli</td>
+</tr>
+
+<tr>
+<td>87081</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isAaccord Hotel</td>
+</tr>
+
+<tr>
+<td>87369</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isD'Brooks</td>
+</tr>
+
+<tr>
+<td>87816</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isPrasad Residency Yeshwanthpur</td>
+</tr>
+
+<tr>
+<td>88015</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend Blu Orchid</td>
+</tr>
+
+<tr>
+<td>88217</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend Dvaraka Inn Manyata Tech Park</td>
+</tr>
+
+<tr>
+<td>88410</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isFabHotel White Lotus Pulikeshi Nagar</td>
+</tr>
+
+<tr>
+<td>88640</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isTreebo Trip Jade Blue Suites</td>
+</tr>
+
+<tr>
+<td>88957</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isFabExpress Status Executive Rooms</td>
+</tr>
+
+<tr>
+<td>89139</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend White Inn Koramangala</td>
+</tr>
+
+<tr>
+<td>89333</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isFabHotel Royal Stay Mahadevapura</td>
+</tr>
+
+<tr>
+<td>89533</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend Hibiscus Hebbal</td>
+</tr>
+
+<tr>
+<td>89737</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isCapital O 9253 Champion Comfort</td>
+</tr>
+
+<tr>
+<td>89936</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend Saga Comforts</td>
+</tr>
+
+<tr>
+<td>90327</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isFabHotel Crown Heights Koramangala</td>
+</tr>
+
+<tr>
+<td>90603</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isTreebo Trip Shivas Kuteera HSR Layout</td>
+</tr>
+
+<tr>
+<td>90797</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isTreebo Trend Grk Comforts</td>
+</tr>
+
+<tr>
+<td>90991</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isTreebo Trip Roxel Inn</td>
+</tr>
+
+<tr>
+<td>91190</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isBluemoon Checkinn</td>
+</tr>
+
+<tr>
+<td>91411</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isFabExpress Golden Key Koramangala</td>
+</tr>
+
+<tr>
+<td>91613</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isFabHotel Grand Savoury Suites Bangalore East Railway Station</td>
+</tr>
+
+<tr>
+<td>91811</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isBright 2bhk-5minfrm Manyata,sobha,bhartiyacity-402</td>
+</tr>
+
+<tr>
+<td>92007</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BookingPage.java:90</td>
+<td title="Message">The Hotel present on the first page isAiry 2bhk-5minutes Frm Manyata &amp; Bhartiya City-401</td>
+</tr>
+
+<tr>
+<td>138334</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:75</td>
+<td title="Message">Execution completed on Browser:chrome</td>
+</tr>
+
+<tr>
+<td>138597</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:62</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>

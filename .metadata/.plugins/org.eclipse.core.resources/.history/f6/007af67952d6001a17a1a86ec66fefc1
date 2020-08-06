@@ -1,0 +1,44 @@
+package com.pages;
+
+import java.util.List;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import com.common.BasePage;
+
+public class BookingPage extends BasePage
+{
+
+	public BookingPage(WebDriver driver) {
+		super(driver);
+		PageFactory.initElements(driver, this);
+	}
+@FindBy(id="querytext")
+private WebElement searchItem;
+
+@FindBy(xpath=".//span[@class='search-button__label']")
+private WebElement clicksearch;
+
+@FindBy(xpath=".//span[contains(text(),'Bengaluru')]")
+private List<WebElement>selectplace;
+
+public void setPlaceToSearc(String place)
+{
+	try
+	{
+		searchItem.sendKeys(place);
+		Thread.sleep(2000);
+		int count=selectplace.size();
+		selectplace.get(count-1).click();
+		clicksearch.click();
+		
+	}
+	catch (Exception e) {
+		e.printStackTrace();
+	}
+}
+	
+}

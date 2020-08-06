@@ -1,0 +1,73 @@
+package com.common;
+
+import java.util.Iterator;
+import java.util.Set;
+
+import org.apache.log4j.Logger;
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.Assert;
+
+import com.generic.Excel;
+import com.generic.Property;
+
+public class BasePage implements AutomationConstants
+{
+	
+	public Logger log=Logger.getLogger(this.getClass());
+	  public WebDriver driver;
+	  public String strConfigFile;
+	  public long timeout;
+	  WebDriverWait wait;
+	  JavascriptExecutor executor;
+	  WebElement element;
+	  public BasePage(WebDriver driver){
+		  this.driver=driver;
+		  strConfigFile=AutomationConstants.CONFIG_PATH+AutomationConstants.CONFIG_FILE;
+		  timeout=Long.parseLong(Property.getPropertyValue(strConfigFile, "EXPLICIT"));
+	  }
+	  
+	
+	  public void moveToElement(WebElement element){
+		  Actions actions=new Actions(driver);
+		  actions.moveToElement(element).perform();
+}
+
+	  public void scrollToProduct(WebElement element)
+	  {
+		  executor=(JavascriptExecutor)driver;
+		  executor.executeScript("arguments[0].scrollIntoView();",element );
+	  }
+	  
+	  public void closeBrowserOpened()
+	  {
+		  driver.quit();
+	  }
+	  
+	
+	  
+	  public void switchingToFrame()
+	  {
+		 
+		  driver.switchTo().frame(1);
+	  }
+	  
+	  
+	  public void assertTrueCmp(String actual,String expected)
+	  {
+		  Assert.assertTrue(actual.contains(expected));
+	  }
+	  
+	  public void getSelectByVisibleText(WebElement element)
+	  {
+		  
+		  Select select=new Select(element);
+		  select.deselectByVisibleText(text);
+	  }
+}

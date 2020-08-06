@@ -1,0 +1,86 @@
+package com.pages;
+
+import java.util.List;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import com.common.BasePage;
+
+public class BookingPage extends BasePage
+{
+
+	public BookingPage(WebDriver driver) {
+		super(driver);
+		PageFactory.initElements(driver, this);
+	}
+@FindBy(id="querytext")
+private WebElement searchItem;
+
+@FindBy(xpath=".//span[@class='search-button__label']")
+private WebElement clicksearch;
+
+@FindBy(xpath="//*[@id='suggestion-64975/200']/div/span[2]")
+private WebElement selectplace;
+
+
+@FindBy(xpath=".//span[@class='search-button__label']")
+private WebElement searchbutton;
+
+@FindBy(xpath="//*[@id='js-splitview-map-container']/div/div[2]/button[2]/span[1]")
+private WebElement closebutton;
+
+@FindBy(id="mf-select-sortby")
+private WebElement selectItem;
+
+@FindBy(xpath="//div[@class='item__name item__name--link']/h3/span")
+private List<WebElement> hotelList;
+
+public void setPlaceToSearc(String place)
+{
+	try
+	{
+		searchItem.sendKeys(place);
+		Thread.sleep(2000);
+		selectplace.click();
+		Thread.sleep(1000);
+		searchbutton.click();
+		closebutton.click();
+			
+	}
+	catch (Exception e) {
+		e.printStackTrace();
+	}
+}
+	public void selectByRatings(String ratings)
+	{
+		try
+		{
+			getSelectByVisibleText(selectItem,ratings);
+			Thread.sleep(1000);
+			
+		}
+		catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+	
+	public void getListOfHotels() {
+		
+		try
+		{
+			int count=hotelList.size();
+			for(int i=0;i<count;i++)
+			{
+				WebElement el=hotelList.get(i);
+				String text=el.getText();
+				System.out.println(text);
+			}
+		}
+		catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+}

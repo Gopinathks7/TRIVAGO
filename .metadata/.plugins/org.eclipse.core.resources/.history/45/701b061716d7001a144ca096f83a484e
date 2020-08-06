@@ -1,0 +1,30 @@
+2020-08-05 17:44:44,892 - com.scripts.BookTest - INFO - Initalising the  ExtentReport 
+2020-08-05 17:44:45,108 - com.scripts.BookTest - INFO - Browser: Selected is chrome 
+2020-08-05 17:44:45,139 - com.scripts.BookTest - INFO - Application Started on Browser:chrome 
+2020-08-05 17:45:30,840 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isAM Suites Frazer Town 
+2020-08-05 17:45:32,988 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isThe Prince Royal 
+2020-08-05 17:45:35,335 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isTreebo Trend Seven Olives Hotel Bommanahalli 
+2020-08-05 17:45:37,443 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isAaccord Hotel 
+2020-08-05 17:45:39,644 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isD'Brooks 
+2020-08-05 17:45:41,802 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isFabHotel White Lotus Pulikeshi Nagar 
+2020-08-05 17:45:43,895 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isTreebo Trend Blu Orchid 
+2020-08-05 17:45:46,001 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isPrasad Residency Yeshwanthpur 
+2020-08-05 17:45:48,118 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isTreebo Trend Dvaraka Inn Manyata Tech Park 
+2020-08-05 17:45:50,327 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isTreebo Trip Jade Blue Suites 
+2020-08-05 17:45:52,438 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isFabExpress Status Executive Rooms 
+2020-08-05 17:45:54,654 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isTreebo Trend Grk Comforts 
+2020-08-05 17:45:56,745 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isFabHotel Crown Heights Koramangala 
+2020-08-05 17:45:58,833 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isTreebo Trip Shivas Kuteera HSR Layout 
+2020-08-05 17:46:00,969 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isFabHotel Royal Stay Mahadevapura 
+2020-08-05 17:46:03,139 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isTreebo Trend White Inn Koramangala 
+2020-08-05 17:46:05,226 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isFabHotel Grand Savoury Suites Bangalore East Railway Station 
+2020-08-05 17:46:07,316 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isCapital O 9253 Champion Comfort 
+2020-08-05 17:46:09,407 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isTreebo Trend Saga Comforts 
+2020-08-05 17:46:11,688 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isTreebo Trip Roxel Inn 
+2020-08-05 17:46:13,804 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isBluemoon Checkinn 
+2020-08-05 17:46:15,981 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isFabExpress Golden Key Koramangala 
+2020-08-05 17:46:18,071 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isB N S Hotel 
+2020-08-05 17:46:20,207 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isBright 2bhk-5minfrm Manyata,sobha,bhartiyacity-402 
+2020-08-05 17:46:22,368 - com.pages.BookingPage - INFO - The Hotel pressent on the first page isAiry 2bhk-5minutes Frm Manyata & Bhartiya City-401 
+2020-08-05 17:46:47,898 - com.scripts.BookTest - INFO - Execution completed on Browser:chrome 
+2020-08-05 17:46:47,928 - com.scripts.BookTest - INFO - Finalizing ExtentReport 
