@@ -1,8 +1,6 @@
 package com.pages;
 
 import java.util.List;
-import java.util.Set;
-
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -79,17 +77,19 @@ public void setPlaceToSearc(String place)
 		
 		try
 		{
-			int count=hotelList.size();
-			System.out.println(count);
-			for(int i=0;i<count;i++)
-			{
-				WebElement el=hotelList.get(i);
-				Thread.sleep(1000);
-				String text=el.getText();
-				
-				log.info("The Hotel present on the first page is"+text);
-				
-			}
+			
+			getCount(hotelList);
+//			int count=hotelList.size();
+//			System.out.println(count);
+//			for(int i=0;i<count;i++)
+//			{
+//				WebElement el=hotelList.get(i);
+//				Thread.sleep(2000);
+//				String text=el.getText();
+//				
+//				
+//				
+//			}
 			}
 			catch (Exception e) {
 				e.printStackTrace();

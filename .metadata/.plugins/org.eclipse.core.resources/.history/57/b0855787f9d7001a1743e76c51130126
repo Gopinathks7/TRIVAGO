@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Aug 06 20:57:24 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:54</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>241</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:69</td>
+<td title="Message">Browser: Selected is chrome</td>
+</tr>
+
+<tr>
+<td>270</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.BookTest category">com.scripts.BookTest</td>
+<td>BaseTest.java:83</td>
+<td title="Message">Application Started on Browser:chrome</td>
+</tr>
+
+<tr>
+<td>43522</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BasePage.java:101</td>
+<td title="Message">The Hotel present on the first page is ==&gt;Grand Suites</td>
+</tr>
+
+<tr>
+<td>43647</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BasePage.java:101</td>
+<td title="Message">The Hotel present on the first page is ==&gt;Fairfield by Marriott Bengaluru Whitefield</td>
+</tr>
+
+<tr>
+<td>43776</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.BookingPage category">com.pages.BookingPage</td>
+<td>BasePage.java:101</td>
+<td title="Message">The Hotel present on the first page is ==&gt;OYO 11092 Shiv Enclave</td>
+</tr>

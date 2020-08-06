@@ -1,0 +1,6 @@
+2020-08-06 20:57:24,702 - com.scripts.BookTest - INFO - Initalising the  ExtentReport 
+2020-08-06 20:57:24,943 - com.scripts.BookTest - INFO - Browser: Selected is chrome 
+2020-08-06 20:57:24,972 - com.scripts.BookTest - INFO - Application Started on Browser:chrome 
+2020-08-06 20:58:08,224 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Grand Suites 
+2020-08-06 20:58:08,349 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Fairfield by Marriott Bengaluru Whitefield 
+2020-08-06 20:58:08,478 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>OYO 11092 Shiv Enclave 

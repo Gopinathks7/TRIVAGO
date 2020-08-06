@@ -1,0 +1,30 @@
+2020-08-06 21:04:36,703 - com.scripts.BookTest - INFO - Initalising the  ExtentReport 
+2020-08-06 21:04:36,984 - com.scripts.BookTest - INFO - Browser: Selected is chrome 
+2020-08-06 21:04:37,013 - com.scripts.BookTest - INFO - Application Started on Browser:chrome 
+2020-08-06 21:05:15,039 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Fairfield by Marriott Bengaluru Whitefield 
+2020-08-06 21:05:18,920 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Treebo Trend Seven Olives Hotel Bommanahalli 
+2020-08-06 21:05:21,519 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>The Prince Royal 
+2020-08-06 21:05:23,688 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Aaccord Hotel 
+2020-08-06 21:05:25,784 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>D'Brooks 
+2020-08-06 21:05:27,870 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>FabHotel White Lotus Pulikeshi Nagar 
+2020-08-06 21:05:30,185 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Prasad Residency Yeshwanthpur 
+2020-08-06 21:05:32,279 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Treebo Trend Blu Orchid 
+2020-08-06 21:05:34,426 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Treebo Trend Dvaraka Inn Manyata Tech Park 
+2020-08-06 21:05:36,564 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Treebo Trip Jade Blue Suites 
+2020-08-06 21:05:38,668 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>FabExpress Status Executive Rooms 
+2020-08-06 21:05:40,745 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Treebo Trend Grk Comforts 
+2020-08-06 21:05:42,837 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Capital O 9253 Champion Comfort 
+2020-08-06 21:05:45,009 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Treebo Trend Sri Udupi Park 
+2020-08-06 21:05:47,164 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Treebo Trend White Inn Koramangala 
+2020-08-06 21:05:49,266 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>FabHotel Royal Stay Mahadevapura 
+2020-08-06 21:05:51,377 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Treebo Trend Saga Comforts 
+2020-08-06 21:05:53,481 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>FabHotel Crown Heights Koramangala 
+2020-08-06 21:05:55,587 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>FabHotel Grand Savoury Suites Bangalore East Railway Station 
+2020-08-06 21:05:57,763 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Treebo Trip Shivas Kuteera HSR Layout 
+2020-08-06 21:05:59,898 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Treebo Trip Roxel Inn 
+2020-08-06 21:06:01,991 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Bluemoon Checkinn 
+2020-08-06 21:06:04,075 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>FabExpress Golden Key Koramangala 
+2020-08-06 21:06:06,302 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>B N S Hotel 
+2020-08-06 21:06:08,414 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Bright 2bhk-5minfrm Manyata,sobha,bhartiyacity-402 
+2020-08-06 21:06:34,521 - com.scripts.BookTest - INFO - Execution completed on Browser:chrome 
+2020-08-06 21:06:34,555 - com.scripts.BookTest - INFO - Finalizing ExtentReport 

@@ -3,19 +3,15 @@ package com.common;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Set;
-
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
-
-import com.generic.Excel;
 import com.generic.Property;
 
 public class BasePage implements AutomationConstants
@@ -93,4 +89,23 @@ public class BasePage implements AutomationConstants
 	  {
 		driver.findElements(By.xpath(xpath)) ;
 	  }
+	  
+	  
+	  public void getCount(List<WebElement> element)
+  	  {
+		  try
+		  {
+	int count=element.size();
+	for(int i=0;i<count;i++)
+	{
+		WebElement ele=element.get(i);
+		String expected=ele.getText();
+		Thread.sleep(2000);
+		log.info("The Hotel present on the first page is ==>"+expected);
+  }
+}
+	  catch (Exception e) {
+		// TODO: handle exception
+	}
+}
 }

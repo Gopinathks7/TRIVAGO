@@ -1,0 +1,38 @@
+2020-08-06 20:59:01,816 - com.scripts.BookTest - INFO - Initalising the  ExtentReport 
+2020-08-06 20:59:02,234 - com.scripts.BookTest - INFO - Browser: Selected is chrome 
+2020-08-06 20:59:02,282 - com.scripts.BookTest - INFO - Application Started on Browser:chrome 
+2020-08-06 20:59:37,516 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Grand Suites 
+2020-08-06 20:59:37,644 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Hotel The Paul Bangalore 
+2020-08-06 20:59:37,744 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>AM Suites Frazer Town 
+2020-08-06 20:59:52,366 - com.scripts.BookTest - INFO - Execution completed on Browser:chrome 
+2020-08-06 20:59:52,442 - com.scripts.BookTest - INFO - Finalizing ExtentReport 
+2020-08-06 21:01:35,339 - com.scripts.BookTest - INFO - Initalising the  ExtentReport 
+2020-08-06 21:01:35,601 - com.scripts.BookTest - INFO - Browser: Selected is chrome 
+2020-08-06 21:01:35,631 - com.scripts.BookTest - INFO - Application Started on Browser:chrome 
+2020-08-06 21:02:13,103 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>AM Suites Frazer Town 
+2020-08-06 21:02:16,025 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Treebo Trend Seven Olives Hotel Bommanahalli 
+2020-08-06 21:02:18,154 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>The Prince Royal 
+2020-08-06 21:02:20,282 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Aaccord Hotel 
+2020-08-06 21:02:22,590 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>D'Brooks 
+2020-08-06 21:02:24,691 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>FabHotel White Lotus Pulikeshi Nagar 
+2020-08-06 21:02:26,859 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Prasad Residency Yeshwanthpur 
+2020-08-06 21:02:28,946 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Treebo Trend Blu Orchid 
+2020-08-06 21:02:31,089 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Treebo Trend Dvaraka Inn Manyata Tech Park 
+2020-08-06 21:02:33,202 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Treebo Trip Jade Blue Suites 
+2020-08-06 21:02:35,303 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>FabExpress Status Executive Rooms 
+2020-08-06 21:02:37,401 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Treebo Trend Grk Comforts 
+2020-08-06 21:02:39,508 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Capital O 9253 Champion Comfort 
+2020-08-06 21:02:41,856 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Treebo Trend Sri Udupi Park 
+2020-08-06 21:02:43,966 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Treebo Trend White Inn Koramangala 
+2020-08-06 21:02:46,080 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>FabHotel Royal Stay Mahadevapura 
+2020-08-06 21:02:48,211 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Treebo Trend Saga Comforts 
+2020-08-06 21:02:50,308 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>FabHotel Crown Heights Koramangala 
+2020-08-06 21:02:52,411 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Treebo Trip Shivas Kuteera HSR Layout 
+2020-08-06 21:02:54,532 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Treebo Trip Roxel Inn 
+2020-08-06 21:02:56,729 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Bluemoon Checkinn 
+2020-08-06 21:02:58,834 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>FabExpress Golden Key Koramangala 
+2020-08-06 21:03:01,006 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>FabHotel Grand Savoury Suites Bangalore East Railway Station 
+2020-08-06 21:03:03,254 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>B N S Hotel 
+2020-08-06 21:03:05,372 - com.pages.BookingPage - INFO - The Hotel present on the first page is ==>Bright 2bhk-5minfrm Manyata,sobha,bhartiyacity-402 
+2020-08-06 21:03:33,504 - com.scripts.BookTest - INFO - Execution completed on Browser:chrome 
+2020-08-06 21:03:33,544 - com.scripts.BookTest - INFO - Finalizing ExtentReport 
